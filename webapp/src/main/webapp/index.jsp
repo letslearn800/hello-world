@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> 100 </h1>
+   <h1> NUZHAT SABA </h1>
 
   
 </form>
