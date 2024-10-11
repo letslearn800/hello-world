@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> I LOVE YOU INDIA </h>
+   <h1> I LOVE YOU</h>
 
   
 </form>
