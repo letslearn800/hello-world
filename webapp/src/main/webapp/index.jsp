@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> JAIMATA DI</h>
+   <h1> Om Namha Parvati PAtaye: HAR HAR MAHADEV</h>
 
   
 </form>
