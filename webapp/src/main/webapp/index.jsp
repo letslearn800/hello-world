@@ -32,6 +32,6 @@
   </div>
 
    <h1> jay shree Ram </h>
-
+   <h2> jay maa durga </h>
   
 </form>
