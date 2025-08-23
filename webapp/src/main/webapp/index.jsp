@@ -31,6 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> jay shree mahakal </h>
+   <h1> jay shree mahakal jay shree Ram </h>
   
 </form>
